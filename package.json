@@ -1,0 +1,28 @@
+{
+  "name": "xcode-dark-rose-pine-dawn",
+  "displayName": "Xcode Dark Rose Pine Dawn",
+  "description": "A VS Code theme combining Xcode Dark UI elements with Rose Pine Dawn editor colors and cream background",
+  "version": "1.0.0",
+  "publisher": "fReschPerspectives",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Xcode Dark Rose Pine Dawn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xcode-dark-rose-pine-dawn.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fReschPerspectives/xcode_dark_rose_pine_dawn"
+  },
+  "license": "MIT",
+  "main": "./themes/xcode-dark-rose-pine-dawn.json"
+}
